@@ -1,0 +1,4 @@
+NET a LOC = "P11";
+NET b LOC = "L3";
+NET c LOC = "K3";
+NET d LOC = "M5";
