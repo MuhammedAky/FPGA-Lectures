@@ -1,0 +1,43 @@
+NET num_in[3] LOC = "N3";
+
+NET num_in[2] LOC = "E2";
+
+NET num_in[1] LOC = "F3";
+
+NET num_in[0] LOC = "G3";
+
+
+
+NET en_in[3] LOC = "B4";
+
+NET en_in[2] LOC = "K3";
+
+NET en_in[1] LOC = "L3";
+
+NET en_in[0] LOC = "P11";
+
+
+
+NET ss_out[6] LOC = "L14";
+
+NET ss_out[5] LOC = "H12";
+
+NET ss_out[4] LOC = "N14";
+
+NET ss_out[3] LOC = "N11";
+
+NET ss_out[2] LOC = "P12";
+
+NET ss_out[1] LOC = "L13";
+
+NET ss_out[0] LOC = "M12";
+
+
+
+NET en_out[3] LOC = "K14";
+
+NET en_out[2] LOC = "M13";
+
+NET en_out[1] LOC = "J12";
+
+NET en_out[0] LOC = "F12";
